@@ -24,7 +24,7 @@
     "index.js"
   ],
   "dependencies": {
-    "mdast-util-to-hast": "^6.0.0"
+    "mdast-util-to-hast": "git+https://github.com/orlandoxu/mdast-util-to-hast.git"
   },
   "devDependencies": {
     "browserify": "^16.0.0",
